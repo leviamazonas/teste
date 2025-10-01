@@ -4,6 +4,7 @@ export default function Home() {
       <h1 className="text-2xl text-blue">Olá mundo</h1>
       <p>Contagem regressiva para a formatura...</p>
       <p>RUMO AO PRIIMEIRO TRAMPO DEV</p>
+      <p>Adicionando coisas numa branch nova</p>
     </div>
   );
 }
